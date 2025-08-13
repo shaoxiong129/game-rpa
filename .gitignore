@@ -1,0 +1,17 @@
+.idea/
+*.iml
+*.iws
+out/
+.DS_Store
+bin/
+build/
+dist/
+vendor/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.swp
+*~
+
